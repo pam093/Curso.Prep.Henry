@@ -1,0 +1,7 @@
+variable --> es una caja que contiene un objeto que se llama valor, y que es necesario definir para poder saber de que se trata. este puede ser un peluche, gato o cuchillo. De esta forma, cuando llame a la variable, puedo tener disponible el valor para más tarde cuando lo quiera utilizar. 
+string --> es un conjunto de valores encerrados entre comillas  
+funciones --> son órdenes que describen lo que se quiere realizar 
+argumentos -->  indicacion que se le pasa para modificar la funcion 
+return --> devuelve el valor de la funcion más cercana 
+if --> ejecuta una funcion siempre que se cumpla la condicion y esta sea verdadera 
+valores booleanos --> true significa que la condicion se cumple y false significa que la condicion no se cumple 
